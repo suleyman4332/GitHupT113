@@ -4,5 +4,8 @@ public class denemegitHup {
         System.out.println("***********");
         System.out.println("deneme düzenleme");
 
+        System.out.println("merhaba ben wise");
+
+
     }
 }
